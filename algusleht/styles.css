@@ -1,43 +1,39 @@
 
 body{
-    background-color:#3f48cc;
+    background-color:#1EBAD6;
  }
 
 h2{
     text-align:center;
 }
 
-.col1{
+.col2{
     height:100%;
     width:32%;
-    margin:4px;
+    margin:3px;
     float:left;
 }
 
-
-a#geogebra:hover{
-    ;
-}
-a#geogebra.icon{}
-a#geogebra {
+a.col2.icon{}
+a.col2 {
     position:relative;
-    width:600px;
-    height:600px;
+    width:32%;
+    height:100%;
 }
-a#geogebra .icon,
-a#geogebra .text {
+a.col2 .icon,
+a.col2 .text {
     transition: opacity 0.5s ease-in-out;
 }
-a#geogebra .text {
+a.col2 .text {
     position:absolute;
     top:0;
     left:0;
     opacity:0;
     }
-a#geogebra:hover .icon{
+a.col2:hover .icon{
     opacity:0;
     }
-a#geogebra:hover .text {
+a.col2:hover .text {
     opacity:1;
     color:white;
     }
@@ -55,5 +51,5 @@ a#geogebra:hover .text {
 .Pealkiri{
     text-align:center;
     color: white;
-    background-color:#3f48cc;
+    background-color:#1EBAD6;
 }
