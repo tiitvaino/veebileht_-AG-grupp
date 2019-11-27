@@ -1,6 +1,6 @@
 p {
-	font: 400 25px "Lato", sans-serif;
-	color: white
+	font: 400 50px "Lato", sans-serif;
+	color: white;
 	text-align: center;
 }
 body, html {
@@ -108,16 +108,26 @@ h3 {
 .sisu{
 	style="color:#ddd;
 	background-color:#282E34;
-	text-align:center;
 	padding:50px 80px;
 	text-align: justify;
 	height: auto;
-	overflow: hidden;"
-	
+	overflow: hidden;
+	display: flex;
 }
 
 .sisuimg{
-  width: 50%;
-  height: 50%;
+  max-width: 100%;
   float: right;
+}
+
+.vasak {
+	width: 30%;
+	height: auto;
+	float: left;
+	text-align: center;
+	vertical-align: middle;
+
+}
+.parem{
+	margin-left:30%;
 }
