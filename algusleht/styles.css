@@ -1,44 +1,100 @@
 
 body{
-    background-color:#1EBAD6;
+    background-image: url("bg_wolfram2.jpg");
  }
 
 h2{
     text-align:center;
 }
 
-.col2{
+.col1{
     height:100%;
     width:32%;
-    margin:3px;
+    margin:4px;
     float:left;
 }
 
-a.col2.icon{}
-a.col2 {
-    position:relative;
-    width:32%;
-    height:100%;
+
+a#geogebra:hover{
+    ;
 }
-a.col2 .icon,
-a.col2 .text {
+a#geogebra.icon{}
+a#geogebra {
+    position:relative;
+    width:600px;
+    height:600px;
+}
+a#geogebra .icon,
+a#geogebra .text {
     transition: opacity 0.5s ease-in-out;
 }
-a.col2 .text {
+a#geogebra .text {
     position:absolute;
     top:0;
     left:0;
     opacity:0;
     }
-a.col2:hover .icon{
-    opacity:0;
+a#geogebra:hover .icon{
+    opacity:60%;
     }
-a.col2:hover .text {
+a#geogebra:hover .text {
     opacity:1;
     color:white;
     }
-
-
+	
+a#wolfram:hover{
+    ;
+}
+a#wolfram.icon{}
+a#wolfram {
+    position:relative;
+    width:600px;
+    height:600px;
+}
+a#wolfram .icon,
+a#wolfram .text {
+    transition: opacity 0.5s ease-in-out;
+}
+a#wolfram .text {
+    position:absolute;
+    top:0;
+    left:0;
+    opacity:0;
+    }
+a#wolfram:hover .icon{
+    opacity:60%;
+    }
+a#wolfram:hover .text {
+    opacity:1;
+    color:white;
+    }
+	
+a#symbolab:hover{
+    ;
+}
+a#symbolab.icon{}
+a#symbolab {
+    position:relative;
+    width:600px;
+    height:600px;
+}
+a#symbolab .icon,
+a#symbolab .text {
+    transition: opacity 0.5s ease-in-out;
+}
+a#symbolab .text {
+    position:absolute;
+    top:0;
+    left:0;
+    opacity:0;
+    }
+a#symbolab:hover .icon{
+    opacity:60%;
+    }
+a#symbolab:hover .text {
+    opacity:1;
+    color:white;
+    }
 .icon{
     width:100%;
     height:100%;
@@ -51,5 +107,5 @@ a.col2:hover .text {
 .Pealkiri{
     text-align:center;
     color: white;
-    background-color:#1EBAD6;
+	font-family: "Lato", sans-serif;
 }
