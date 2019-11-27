@@ -1,0 +1,36 @@
+
+body{
+    background-color:#3f48cc;
+ }
+
+.col1{
+    height:100%;
+    width:32%;
+    float:left;
+    margin:8px;
+}
+.geogebra{
+}
+
+a#geogebra:hover{
+    background_color:100px;
+}
+
+
+.icon{
+    width:100%;
+    height:100%;
+    background: white;
+}
+
+
+
+.valik{
+    width:100%;
+    height:100%;
+}
+.Pealkiri{
+    text-align:center;
+    color: white;
+    background-color:#3f48cc;
+}
