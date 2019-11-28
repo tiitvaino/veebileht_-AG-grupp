@@ -18,9 +18,9 @@ Tiit:
 	õppisin css ja html paremini tundma, kuidas "DIV-e" paigutada, kuidas CSS ja HTML oma vahel toimima panna. Õppisin ka paremini probleeme internetis ülesse leidma
 Allan:
     Raskused:
-	Mingid raskused
+	Vahel oli raske välja uurida, kuidas panna leht niimoodi toimima nagu ise ette kujutasin. Kippus ikka minema nii, et jõuan mingi 	 "x" lahenduseni, aga vahest leidsin sedasi hoopis parema lahenduse.
     Kogemused:
-	Mingid kogemused
+	Kindlasti õppisin palju uusi html'i ja css'i funktsioone. Nüüd oskan juba luua veebilehe, mida julgen ka kellelegi näidata.
 Herman:
     Raskused:
 	Mingid raskused
