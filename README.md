@@ -10,7 +10,6 @@ Herman tegeles  pealehega (main), nii css-i kui ka html-ga.
 Allan tegi sisulehtedele põhja ja tegi sissejuhatava lehe(front)
 Tiit tegi sisulehtedele sisu,  ja koordineeris tööd.
 
-Kasutatud pildid:
 Screenshotid ja pildid võetud järgnevatelt lehtedelt:
 
 https://wallpaperplay.com/board/math-equation-wallpapers
