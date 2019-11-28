@@ -12,6 +12,7 @@ Tiit tegi sisulehtedele sisu,  ja koordineeris tööd.
 
 Kasutatud pildid:
 Screenshotid ja pildid võetud järgnevatelt lehtedelt:
+
 https://wallpaperplay.com/board/math-equation-wallpapers
 
 https://www.symbolab.com
