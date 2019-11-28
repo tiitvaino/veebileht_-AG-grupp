@@ -105,6 +105,15 @@ h3 {
   letter-spacing: 10px;
 }
 
+.caption span.border:hover {
+  background-color: black;
+  color: #fff;
+  padding: 18px;
+  font-size: 25px;
+  letter-spacing: 10px;
+  cursor:pointer;
+}
+
 span.sidebtn{
 	position:fixed;
 	font-size:40px;
