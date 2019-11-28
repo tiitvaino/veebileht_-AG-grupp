@@ -18,9 +18,9 @@ body, html {
   background-size: cover;
 }
 
-.img1 { background-image: url("wolfram.png"); }
-.img2 { background-image: url("geogebra.png"); }
-.img3 { background-image: url("symbolab.jpg"); }
+.img1 { background-image: url("../../pildid/front-pildid/wolfram.png"); }
+.img2 { background-image: url("../../pildid/front-pildid/geogebra.png"); }
+.img3 { background-image: url("../../pildid/front-pildid/symbolab.jpg"); }
 
 
 
