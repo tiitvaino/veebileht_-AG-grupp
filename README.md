@@ -32,7 +32,10 @@ Allan:
 Herman:
 
     Raskused:
-	Mingid raskused
+	HTMLi ja CSSiga töötab ka siis kui koodis on mingi viga sees. Kohati oli seetõttu keeruline aru saada, 
+	et miks see asi ei tööta nii nagu ma seda oma vaimusilmas ette kujutasin. Kas kuskil on mingi } puudu
+	või olen mingisugused parameetrid valesti sisestanud või töötabki see vidin hoopis teistmoodi.
 	
     Kogemused:
-	Mingid kogemused
+	Loogika, kuidas veebilehe ülesehitus välja peaks nägema. Dividega töötamine. Kuidas otsida vigu. Päris kasulik
+	oli ka näiteks Firefoxis käsk "Inspekteeri elementi".
