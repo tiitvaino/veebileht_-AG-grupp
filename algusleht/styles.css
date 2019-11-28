@@ -38,9 +38,18 @@ a.col2:hover .icon{
 a.col2:hover .text {
     opacity:1;
     }
-.yellow{color:yellow;}
-.white{color:white;}
-.red{color: #C22945;}
+.yellow {
+	color:yellow;
+    font-family: "Lato", sans-serif;
+}
+.white {
+	color:white;
+    font-family: "Lato", sans-serif;
+}
+.red {
+	color: #C22945;
+    font-family: "Lato", sans-serif;
+}
 .icon{
     width:100%;
     height:100%;
